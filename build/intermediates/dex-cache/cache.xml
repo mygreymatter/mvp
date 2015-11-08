@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mayo/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.2/e8f912ee19ad84958510883ea191135276b091f8/dagger-1.2.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8">
+        <dex dex="/home/mayo/Workspace/Android/Projects/MVP/app/build/intermediates/pre-dexed/debug/dagger-1.2.2-e453f5441030d642532e589da8fff1f56254bc78.jar" />
+    </item>
+    <item
+        jar="/home/mayo/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/mayo/Workspace/Android/Projects/MVP/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-4ca51ec9b713c199899f1b4d7f1f755cf462836e.jar" />
+    </item>
+    <item
+        jar="/home/mayo/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/mayo/Workspace/Android/Projects/MVP/app/build/intermediates/pre-dexed/debug/javax.inject-1-8cf38991f757fd2ad2620f8eb0f6add5f31704bf.jar" />
+    </item>
+    <item
+        jar="/home/mayo/Workspace/Android/Projects/MVP/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/mayo/Workspace/Android/Projects/MVP/app/build/intermediates/pre-dexed/debug/classes-9e51e7d8a753a1ec59839b84109bc33dc8b38db1.jar" />
+    </item>
+    <item
+        jar="/home/mayo/Workspace/Android/Projects/MVP/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/mayo/Workspace/Android/Projects/MVP/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-8b581e1d6e2ccbeb2ba306289896bacfb8bbfbf3.jar" />
+    </item>
+    <item
+        jar="/home/mayo/Workspace/Android/Projects/MVP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/mayo/Workspace/Android/Projects/MVP/app/build/intermediates/pre-dexed/debug/classes-a0351b86f52364913bf0f6a3435a7e7228a4e080.jar" />
+    </item>
+    <item
+        jar="/home/mayo/android/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/home/mayo/Workspace/Android/Projects/MVP/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-10f32f9487f6ca1c9217061d0f9c80a18c5394c1.jar" />
+    </item>
+
+</items>
